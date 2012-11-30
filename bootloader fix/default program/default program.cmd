@@ -1,0 +1,1 @@
+batchisp.exe -device at32uc3a3256 -hardware usb program -operation erase f loadbuffer EVK1104-APPLICATIONS-DSPlibDemoexample.elf program verify start reset 0
