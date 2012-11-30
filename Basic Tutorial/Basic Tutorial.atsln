@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "NonASF Tutorial", "NonASF Tutorial\NonASF Tutorial.cproj", "{BADC7557-1872-4212-9213-0E412088190C}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "ASF Tutorial", "ASF Tutorial\ASF Tutorial.cproj", "{CE6A01AC-4141-4429-888F-F057111B65F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BADC7557-1872-4212-9213-0E412088190C}.Debug|AVR.ActiveCfg = Debug|AVR
+		{BADC7557-1872-4212-9213-0E412088190C}.Debug|AVR.Build.0 = Debug|AVR
+		{BADC7557-1872-4212-9213-0E412088190C}.Release|AVR.ActiveCfg = Release|AVR
+		{BADC7557-1872-4212-9213-0E412088190C}.Release|AVR.Build.0 = Release|AVR
+		{CE6A01AC-4141-4429-888F-F057111B65F4}.Debug|AVR.ActiveCfg = Debug|AVR
+		{CE6A01AC-4141-4429-888F-F057111B65F4}.Debug|AVR.Build.0 = Debug|AVR
+		{CE6A01AC-4141-4429-888F-F057111B65F4}.Release|AVR.ActiveCfg = Release|AVR
+		{CE6A01AC-4141-4429-888F-F057111B65F4}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
